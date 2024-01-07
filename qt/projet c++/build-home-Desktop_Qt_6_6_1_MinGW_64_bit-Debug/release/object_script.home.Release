@@ -1,0 +1,12 @@
+release/addmovie.o
+release/addseance.o
+release/billet.o
+release/changesalle.o
+release/main.o
+release/mainwindow.o
+release/qrc_imj.o
+release/moc_addmovie.o
+release/moc_addseance.o
+release/moc_billet.o
+release/moc_changesalle.o
+release/moc_mainwindow.o

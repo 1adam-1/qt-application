@@ -1,0 +1,12 @@
+debug/addmovie.o
+debug/addseance.o
+debug/billet.o
+debug/changesalle.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_imj.o
+debug/moc_addmovie.o
+debug/moc_addseance.o
+debug/moc_billet.o
+debug/moc_changesalle.o
+debug/moc_mainwindow.o
